@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hello Kev</title>
+    <link>https://RedKev-cpu.github.org/</link>
+    <description>Recent content on Hello Kev</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 24 May 2021 16:32:29 -0700</lastBuildDate>
+    <atom:link href="https://RedKev-cpu.github.org/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Article 1</title>
+      <link>https://RedKev-cpu.github.org/article1/test/</link>
+      <pubDate>Mon, 24 May 2021 16:32:29 -0700</pubDate>
+      <guid>https://RedKev-cpu.github.org/article1/test/</guid>
+      <description>This is Article 1.</description>
+    </item>
+  </channel>
+</rss>
